@@ -1,9 +1,11 @@
 # Mask_OverlayTechnique
 
 Liver Contouring and Masking in Medical Imaging 
+
 This repository contains my exploration of liver contouring for Hepatocellular Carcinoma (HCC) patients using image processing techniques, built with anonymized data from the Cancer Imaging Archive.
 
 Project Overview:
+
 Objective: To develop a pipeline for contouring liver images and creating masks for medical imaging, aiming to contribute to precision medicine.
 
 Methodology:
